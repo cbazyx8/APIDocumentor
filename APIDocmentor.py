@@ -47,7 +47,4 @@ def generate_object_documentation(name, obj):
     else:
         return ''
 
-# Example usage
-import my_module
 
-generate_api_documentation(my_module, 'my_module_docs.md')
